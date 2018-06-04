@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 11 resources" deleteContents="true" description="Delete 11 resources" element1="/Step01_Servlet" element10="/Step10_Cookie" element11="/Step11_FileUpload" element2="/Step02_Request" element3="/Step03_DataBase" element4="/Step04_Jsp" element5="/Step05_PageMove" element6="/Step06_ConnectionPool" element7="/Step07_Scope" element8="/Step08_Auth" element9="/Step09_Include" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1514118850852"/>
+</session>

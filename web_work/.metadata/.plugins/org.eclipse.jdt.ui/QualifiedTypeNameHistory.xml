@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="test.board.dto.BoardDto"/>
+<fullyQualifiedTypeName name="test.board.dao.BoardDao"/>
+<fullyQualifiedTypeName name="com.sun.glass.ui.Application"/>
+<fullyQualifiedTypeName name="test.cafe.dao.CafeDao"/>
+<fullyQualifiedTypeName name="test.file.action.FileListAction"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.servlet.ServletFileUpload"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.disk.DiskFileItemFactory"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.FileItem"/>
+<fullyQualifiedTypeName name="test.file.action.FileInsertFormAction"/>
+<fullyQualifiedTypeName name="test.file.action.FileInsertAction"/>
+<fullyQualifiedTypeName name="javax.servlet.jsp.PageContext"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.net.URLEncoder"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="test.file.action.FileDownloadAction"/>
+<fullyQualifiedTypeName name="test.controller.Action"/>
+<fullyQualifiedTypeName name="test.file.dto.FileDto"/>
+<fullyQualifiedTypeName name="test.file.dao.FileDao"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="test.controller.ActionForward"/>
+<fullyQualifiedTypeName name="test.file.action.FileDeleteAction"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.servlet.ServletRequestContext"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.dom.Filter"/>
+</qualifiedTypeNameHistroy>

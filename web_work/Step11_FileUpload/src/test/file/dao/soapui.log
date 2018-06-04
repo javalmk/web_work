@@ -1,0 +1,5 @@
+2017-12-21 15:23:38,426 WARN  [DefaultSoapUICore] Missing folder [C:\Users\acorn\ext] for external libraries
+2017-12-21 15:23:39,073 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\acorn\soapui-settings.xml]
+2017-12-21 15:23:39,905 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\acorn\intellij-soapui-workspace.xml]
+2017-12-21 15:27:38,132 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\acorn\intellij-soapui-workspace.xml]
+2017-12-21 15:27:38,134 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\acorn\soapui-settings.xml]
